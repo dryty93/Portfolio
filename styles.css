@@ -1,8 +1,8 @@
-nav
+body
 {
+
     height: 70%;
     background-image:
-
             linear-gradient(
                     rgba(0, 0, 0, 0.5),
                     rgba(0, 0, 0, 0.5)
@@ -10,7 +10,18 @@ nav
 
     background-size: cover;
     text-align: center;
+    margin: 0px;
+    padding-bottom: 35%;
+
 }
+
+nav
+{
+
+
+
+}
+
 
 
 
@@ -18,35 +29,35 @@ h1
 {
     text-align:center;
 }
-.about
-{
-    text-align: center;
-    padding: 50px;
-}
-#projects
-{
-    text-align:center;
-    float: left;
-}
+
+
+
 
 .pj_describe
 {
-    border-style: solid;
-    mso-border-shadow: yes;
-    background-color: white;
-    border-color: black;
-    border-width: 5px;
-    color:black;
-
+    padding: 5%;
 }
 
-
+.up
+{
+    position: fixed;
+    color: red;
+}
 .nav-btn
 {
-    background-color: white;
     color: #f75990;
 
-    padding: 5px;
+    padding: 10%;
+    width: 40%;
+
+    float: left;
+    top: 0 ;
+    margin-bottom: 5%;
+}
+
+.nav-btn li
+{
+    display: block;
 }
 
 .summary
@@ -67,7 +78,7 @@ ul
 .projects
 {
     text-align:center;
-    height: 300px;
+    height: 600px;
     color:white;
     margin: 5px;
     font-size: large;
@@ -82,14 +93,13 @@ ul
 
 .about
 {
-    border: 5px;
+    text-align: center;
+    padding: 50px;
     border-color: red;
     font-family: "Yu Gothic UI Semibold";
     font-weight: lighter;
-    height: 300px;
+    height: 400px;
     color:white;
-    border: 5px;
-    border-color: black;
     font-size: large;
     background-image:
 
@@ -97,9 +107,6 @@ ul
                     rgba(0, 0, 0, 0.5),
                     rgba(0, 0, 0, 0.5)
             ),url("res/bgrnd.jpeg");
-
-    background-size: cover;
-    text-align: center;
 
 
 
