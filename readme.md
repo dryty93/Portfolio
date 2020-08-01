@@ -35,8 +35,8 @@ Feel free to check them out
       by the small amounts of code needed to perform complex operations.
       
      This image shows the **AOI** (Areas of Interest) webpage./
-     You can add an AOI, search for an AOI, or navigate to an AOI\
-     link
+     You can add an AOI, search for an AOI, or navigate to a specified AOI
+     page.
 
     ![Alt text](https://github.com/dryty93/Portfolio/blob/master/res/HiroGlifx.JPG)
     
