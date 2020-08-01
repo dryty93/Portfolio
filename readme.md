@@ -15,10 +15,9 @@ Feel free to check them out
     earned achievements. These are awarded based on contributions\
     to the community in the form of providing responses to unanswered\
     questions in your preferred Area of Interest (AOI). Asking questions\
-    requires the exchange of Chi
+    requires the exchange of Chi.
     
  
-
     Displayed below is a 
     *User's* profile page.
 
@@ -26,11 +25,7 @@ Feel free to check them out
     ![Alt text](https://github.com/dryty93/Portfolio/blob/master/res/EE.JPG)
 
 
-    \
-    \
-    \
-    \
-    \
+
    
 2. **HiroGlifx**:
 
